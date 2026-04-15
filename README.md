@@ -11,3 +11,7 @@ El metodo a trabajar es el de Trunk-Based Development (TBD) ya que para el prese
 no sera algo tan extenso el desarrollo de este y los tiempos seran acortados tambien, a su 
 vez para lograr una implementacion mas agil en el proyecto.
 
+## Creacion de clase persona
+
+Se crea la clase persona y se proceden a hacer pruebas de texto de bienvenida y despedida.
+
