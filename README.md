@@ -3,7 +3,7 @@
 ## NOMBRE DE LOS INTEGRANTES
 
 1. Matias Bustos
-2. Roberto Gonzales
+2. Roberto Gonzalez
 
 ## Selecion del tipo de trabajo a utilizar (gitflow o TBD)
 
